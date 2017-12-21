@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-21 16:21-0500\n"
+"PO-Revision-Date: 2017-12-21 16:31-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -30,51 +30,51 @@ msgstr "Se fusionó una cuenta en <a href={}>{}</a>."
 
 #: admin.py:59
 msgid "Merged {} accounts into <a href={}>{}</a>."
-msgstr ""
+msgstr "Las cuentas fusionadas {} en <a href={}>{}</a>."
 
 #: forms.py:124
 msgid "Debitor"
-msgstr ""
+msgstr "Deudor"
 
 #: forms.py:139
 msgid "Creditor"
-msgstr ""
+msgstr "Acreedor"
 
 #: forms.py:162
 msgid "Amount has to be positive"
-msgstr ""
+msgstr "La cantidad debe ser positiva"
 
 #: forms.py:178
 msgid "You are trying to create a transaction between two foreign accounts"
-msgstr ""
+msgstr "Usted está intentando realizar una transacción entre dos cuentas extranjeras"
 
 #: forms.py:193
 msgid "Actual balance"
-msgstr ""
+msgstr "Balance real"
 
 #: models.py:16
 msgid "Personal"
-msgstr ""
+msgstr "Personal"
 
 #: models.py:17
 msgid "Foreign"
-msgstr ""
+msgstr "Extranjero"
 
 #: models.py:18
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #: models.py:83
 msgid "Initial Balance"
-msgstr ""
+msgstr "Balance inicial"
 
 #: models.py:274
 msgid "Do not use"
-msgstr ""
+msgstr "No usar"
 
 #: models.py:275 templates/silverstrike/recurring_transactions.html:29
 msgid "Source Account"
-msgstr ""
+msgstr "Cuenta de Origen"
 
 #: models.py:276 templates/silverstrike/recurring_transactions.html:30
 msgid "Destination Account"
