@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-21 17:50-0500\n"
+"PO-Revision-Date: 2017-12-21 18:01-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -272,53 +272,54 @@ msgstr "El enlace de este correo de confirmación ha caducado o no es válido. P
 msgid "Please sign in with one\n"
 "of your existing third party accounts. Or, <a href=\"%(signup_url)s\">sign up</a>\n"
 "for a %(site_name)s account and sign in below:"
-msgstr ""
+msgstr "Por favor regístrese con una\n"
+"de sus cuentas de terceros. o <a href=\"%(signup_url)s\">inicie sesión</a> desde una cuenta %(site_name)s y regístrese a continuación:"
 
 #: templates/account/login.html:27
 msgid "or"
-msgstr ""
+msgstr "o"
 
 #: templates/account/login.html:34
 #, python-format
 msgid "If you have not created an account yet, then please\n"
 "<a href=\"%(signup_url)s\">sign up</a> first."
-msgstr ""
+msgstr "Si no has creado una cuenta todavía, entonces <a href=\"%(signup_url)s\">regístrese</a> primero, por favor."
 
 #: templates/account/login.html:65
 msgid "Sign In"
-msgstr ""
+msgstr "Ingresar"
 
 #: templates/account/login.html:71
 msgid "Forgot Password?"
-msgstr ""
+msgstr "¿olvidó su contraseña?"
 
 #: templates/account/logout.html:15
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "¿Está seguro de que quiere cerrar sesión?"
 
 #: templates/account/logout.html:22
 msgid "Sign Out"
-msgstr ""
+msgstr "Cerrar sesión"
 
 #: templates/account/messages/cannot_delete_primary_email.txt:2
 #, python-format
 msgid "You cannot remove your primary e-mail address (%(email)s)."
-msgstr ""
+msgstr "No puede borrar su dirección de correo electrónico primaria (%(email)s)."
 
 #: templates/account/messages/email_confirmation_sent.txt:2
 #, python-format
 msgid "Confirmation e-mail sent to %(email)s."
-msgstr ""
+msgstr "Correo de confirmación enviado a %(email)s."
 
 #: templates/account/messages/email_confirmed.txt:2
 #, python-format
 msgid "You have confirmed %(email)s."
-msgstr ""
+msgstr "Ha confirmado %(email)s."
 
 #: templates/account/messages/email_deleted.txt:2
 #, python-format
 msgid "Removed e-mail address %(email)s."
-msgstr ""
+msgstr "Eliminar dirección de correo electrónico %(email)s."
 
 #: templates/account/messages/logged_in.txt:4
 #, python-format
