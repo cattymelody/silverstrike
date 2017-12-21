@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-20 07:02-0500\n"
+"PO-Revision-Date: 2017-12-21 16:21-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -18,15 +18,15 @@ msgstr ""
 
 #: admin.py:36
 msgid "You need to select more than one account to merge them."
-msgstr ""
+msgstr "Necesita seleccionar más de una cuenta para fusionarlas."
 
 #: admin.py:43
 msgid "You can only merge foreign accounts, {} isn't."
-msgstr ""
+msgstr "Solo puede fusionar cuentas extranjeras, {} no lo es."
 
 #: admin.py:54
 msgid "Merged one account into <a href={}>{}</a>."
-msgstr ""
+msgstr "Se fusionó una cuenta en <a href={}>{}</a>."
 
 #: admin.py:59
 msgid "Merged {} accounts into <a href={}>{}</a>."
