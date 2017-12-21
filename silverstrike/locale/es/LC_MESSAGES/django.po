@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-21 17:10-0500\n"
+"PO-Revision-Date: 2017-12-21 17:20-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -228,18 +228,21 @@ msgstr "Por favor confirme su dirección de correo electrónico"
 msgid "Hello from %(site_name)s!\n\n"
 "You're receiving this e-mail because you or someone else has requested a password for your user account.\n"
 "It can be safely ignored if you did not request a password reset. Click the link below to reset your password."
-msgstr ""
+msgstr "¡Hola desde %(site_name)s!\n\n"
+"Usted está recibiendo este correo debido a que usted o alguien más ha solicitado una contraseña para su cuenta.\n"
+"Si no solicitó restablecer su contraseña es seguro ignorar este mensaje. Haga clic en el enlace de abajo para restablecer su contraseña."
 
 #: templates/account/email/password_reset_key_message.txt:8
 #, python-format
 msgid "In case you forgot, your username is %(username)s."
-msgstr ""
+msgstr "En caso de que lo haya olvidado, su nombre de usuario es %(username)s."
 
 #: templates/account/email/password_reset_key_message.txt:10
 #, python-format
 msgid "Thank you for using %(site_name)s!\n"
 "%(site_domain)s"
-msgstr ""
+msgstr "¡Gracias por usar %(site_name)s!\n"
+"%(site_domain)s"
 
 #: templates/account/email/password_reset_key_subject.txt:3
 msgid "Password Reset E-mail"
