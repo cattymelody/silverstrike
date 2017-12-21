@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-21 17:20-0500\n"
+"PO-Revision-Date: 2017-12-21 17:31-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -246,12 +246,12 @@ msgstr "¡Gracias por usar %(site_name)s!\n"
 
 #: templates/account/email/password_reset_key_subject.txt:3
 msgid "Password Reset E-mail"
-msgstr ""
+msgstr "Correo de reestablecimiento de contraseña"
 
 #: templates/account/email_confirm.html:6
 #: templates/account/email_confirm.html:10
 msgid "Confirm E-mail Address"
-msgstr ""
+msgstr "Confirme su dirección de correo electrónico"
 
 #: templates/account/email_confirm.html:16
 #, python-format
@@ -529,56 +529,56 @@ msgstr ""
 
 #: templates/silverstrike/account_detail.html:36
 msgid "Current Balance"
-msgstr ""
+msgstr "Saldo actual"
 
 #: templates/silverstrike/account_detail.html:39
 msgid "In"
-msgstr ""
+msgstr "Entrada"
 
 #: templates/silverstrike/account_detail.html:42
 msgid "Out"
-msgstr ""
+msgstr "Salida"
 
 #: templates/silverstrike/account_detail.html:45
 #: templates/silverstrike/index.html:30 templates/silverstrike/index.html:64
 msgid "Difference"
-msgstr ""
+msgstr "Diferencia"
 
 #: templates/silverstrike/account_detail.html:50
 #: templates/silverstrike/category_detail.html:36
 #: templates/silverstrike/recurringtransaction_detail.html:50
 #: templates/silverstrike/transaction_detail.html:40
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: templates/silverstrike/account_detail.html:53
 #: templates/silverstrike/reconcile.html:7
 #: templates/silverstrike/reconcile.html:16
 msgid "Reconcile"
-msgstr ""
+msgstr "Conciliar"
 
 #: templates/silverstrike/account_detail.html:69
 #: templates/silverstrike/transaction_overview.html:19
 msgid "Transaction list"
-msgstr ""
+msgstr "Lista de transacciones"
 
 #: templates/silverstrike/account_detail.html:72
 #: templates/silverstrike/account_detail.html:74
 msgid "Show all"
-msgstr ""
+msgstr "Mostrar todos"
 
 #: templates/silverstrike/account_detail.html:92
 msgid "Reconcilation"
-msgstr ""
+msgstr "Conciliación"
 
 #: templates/silverstrike/account_form.html:8
 #, python-format
 msgid "Update %(object.name)s"
-msgstr ""
+msgstr "Actualizar %(object.name)s"
 
 #: templates/silverstrike/account_form.html:10
 msgid "Create new account"
-msgstr ""
+msgstr "Crear cuenta nueva"
 
 #: templates/silverstrike/account_form.html:18
 #: templates/silverstrike/account_form.html:59
@@ -589,14 +589,14 @@ msgstr ""
 #: templates/silverstrike/recurringtransaction_form.html:47
 #: templates/silverstrike/transaction_edit.html:108
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: templates/silverstrike/account_form.html:20
 #: templates/silverstrike/accounts.html:36 templates/silverstrike/base.html:44
 #: templates/silverstrike/category_form.html:20
 #: templates/silverstrike/recurringtransaction_form.html:18
 msgid "New"
-msgstr ""
+msgstr "Nuevo"
 
 #: templates/silverstrike/account_form.html:28
 msgid "Account Details"
