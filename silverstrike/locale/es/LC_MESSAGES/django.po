@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-21 17:31-0500\n"
+"PO-Revision-Date: 2017-12-21 17:41-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -600,7 +600,7 @@ msgstr "Nuevo"
 
 #: templates/silverstrike/account_form.html:28
 msgid "Account Details"
-msgstr ""
+msgstr "Detalles de la cuenta"
 
 #: templates/silverstrike/account_form.html:62
 #: templates/silverstrike/category_form.html:63
@@ -611,62 +611,62 @@ msgstr ""
 #: templates/silverstrike/recurringtransaction_form.html:47
 #: templates/silverstrike/transaction_edit.html:108
 msgid "Create"
-msgstr ""
+msgstr "Crear"
 
 #: templates/silverstrike/accounts.html:22
 #: templates/silverstrike/budget_index.html:35
 #: templates/silverstrike/category_index.html:42
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: templates/silverstrike/accounts.html:23
 #: templates/silverstrike/charts.html:30 templates/silverstrike/index.html:77
 #: templates/silverstrike/index.html:92
 msgid "Balance"
-msgstr ""
+msgstr "Saldo"
 
 #: templates/silverstrike/accounts.html:24
 msgid "Active"
-msgstr ""
+msgstr "Activo"
 
 #: templates/silverstrike/base.html:47
 msgid "New Withdrawl"
-msgstr ""
+msgstr "Retiro nuevo"
 
 #: templates/silverstrike/base.html:50
 msgid "New Deposit"
-msgstr ""
+msgstr "Nuevo depósito"
 
 #: templates/silverstrike/base.html:53
 msgid "New Transfer"
-msgstr ""
+msgstr "Nueva transferencia"
 
 #: templates/silverstrike/base.html:56
 msgid "New Split Transaction"
-msgstr ""
+msgstr "Nueva transacción dividida"
 
 #: templates/silverstrike/base.html:78
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 #: templates/silverstrike/base.html:81
 msgid "Sign out"
-msgstr ""
+msgstr "Cerrar sesión"
 
 #: templates/silverstrike/base.html:93
 msgid "MAIN NAVIGATION"
-msgstr ""
+msgstr "NAVEGACIÓN PRINCIPAL"
 
 #: templates/silverstrike/base.html:108
 #: templates/silverstrike/category_detail.html:42
 msgid "Transactions"
-msgstr ""
+msgstr "Transacciones"
 
 #: templates/silverstrike/base.html:113
 #: templates/silverstrike/recurring_transactions.html:13
 #: templates/silverstrike/recurring_transactions.html:20
 msgid "Recurrences"
-msgstr ""
+msgstr "Recurrencias"
 
 #: templates/silverstrike/base.html:119
 #: templates/silverstrike/category_detail.html:11
@@ -675,103 +675,105 @@ msgstr ""
 #: templates/silverstrike/category_index.html:9
 #: templates/silverstrike/category_index.html:37
 msgid "Categories"
-msgstr ""
+msgstr "Categorías"
 
 #: templates/silverstrike/base.html:125
 #: templates/silverstrike/budget_index.html:7
 #: templates/silverstrike/budget_index.html:10
 msgid "Budgets"
-msgstr ""
+msgstr "Presupuestos"
 
 #: templates/silverstrike/base.html:131 templates/silverstrike/charts.html:6
 #: templates/silverstrike/charts.html:11
 msgid "Charts"
-msgstr ""
+msgstr "Gráficos"
 
 #: templates/silverstrike/base.html:136
 msgid "Import & Export"
-msgstr ""
+msgstr "Importar y exportar"
 
 #: templates/silverstrike/base.html:143
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: templates/silverstrike/base.html:146
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 #: templates/silverstrike/base.html:165
 #, python-format
 msgid "<b>Version</b> %(version)s"
-msgstr ""
+msgstr "<b>Version</b> %(version)s"
 
 #: templates/silverstrike/budget_index.html:29
 msgid "Budget for "
-msgstr ""
+msgstr "Presupuesto para "
 
 #: templates/silverstrike/budget_index.html:36
 msgid "Allocated"
-msgstr ""
+msgstr "Asignado"
 
 #: templates/silverstrike/budget_index.html:37
 #: templates/silverstrike/category_index.html:43
 msgid "Money spent"
-msgstr ""
+msgstr "Dinero gastado"
 
 #: templates/silverstrike/budget_index.html:38
 msgid "Left"
-msgstr ""
+msgstr "Izquierda"
 
 #: templates/silverstrike/budget_index.html:65
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: templates/silverstrike/category_confirm_delete.html:16
 msgid "\n"
 "      <p>Are you sure you want to delete the category?</p>\n"
 "      <p>All transactions linked to this category won't be deleted but will loose the entry for the category</p>\n"
 "      "
-msgstr ""
+msgstr "\n"
+"      <p>¿Está seguro que desea eliminar la categoría?</p> <p>Todas las transacciones vinculadas a esta categoría no serán borradas, pero perderían la entrada a la categoría</p>\n"
+"      "
 
 #: templates/silverstrike/category_detail.html:30
 msgid "Overview"
-msgstr ""
+msgstr "Resumen"
 
 #: templates/silverstrike/category_detail.html:61
 msgid "Show all transactions"
-msgstr ""
+msgstr "Mostrar todas las transacciones"
 
 #: templates/silverstrike/category_detail.html:68
 msgid "Distribution by Source"
-msgstr ""
+msgstr "Distribuir por fuente"
 
 #: templates/silverstrike/category_detail.html:76
 msgid "Distribution by Destination"
-msgstr ""
+msgstr "Distribuir por destino"
 
 #: templates/silverstrike/category_form.html:10
 msgid "Create new category"
-msgstr ""
+msgstr "Crear una nueva categoría"
 
 #: templates/silverstrike/category_form.html:28
 msgid "Category Details"
-msgstr ""
+msgstr "Detalles de la categoría"
 
 #: templates/silverstrike/category_index.html:27
 msgid "Distribution by category"
-msgstr ""
+msgstr "Distribución por categoría"
 
 #: templates/silverstrike/charts.html:7
 msgid "because they are fun!"
-msgstr ""
+msgstr "¡Porque son divertidos!"
 
 #: templates/silverstrike/charts.html:18
 msgid "Last year"
-msgstr ""
+msgstr "El año pasado"
 
 #: templates/silverstrike/charts.html:19
 msgid "Last 6 Months"
-msgstr ""
+msgstr "Últimos 6 meses"
 
 #: templates/silverstrike/charts.html:20
 msgid "Last 3 Months"
