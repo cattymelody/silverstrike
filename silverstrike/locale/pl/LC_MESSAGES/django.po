@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-21 19:20-0500\n"
+"PO-Revision-Date: 2017-12-21 19:30-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -305,27 +305,27 @@ msgstr "Wyloguj Się"
 #: templates/account/messages/cannot_delete_primary_email.txt:2
 #, python-format
 msgid "You cannot remove your primary e-mail address (%(email)s)."
-msgstr ""
+msgstr "Nie możesz usunąc swojego podstawowego adresu e-mail (%(email)s)."
 
 #: templates/account/messages/email_confirmation_sent.txt:2
 #, python-format
 msgid "Confirmation e-mail sent to %(email)s."
-msgstr ""
+msgstr "Potwierdzenie adresu e-mail zostało wysłane do %(email)s."
 
 #: templates/account/messages/email_confirmed.txt:2
 #, python-format
 msgid "You have confirmed %(email)s."
-msgstr ""
+msgstr "Potwierdziłeś/aś %(email)s."
 
 #: templates/account/messages/email_deleted.txt:2
 #, python-format
 msgid "Removed e-mail address %(email)s."
-msgstr ""
+msgstr "Usunięto adres e-mail %(email)s."
 
 #: templates/account/messages/logged_in.txt:4
 #, python-format
 msgid "Successfully signed in as %(name)s."
-msgstr ""
+msgstr "Pomyślnie zalogowano się jako %(name)s."
 
 #: templates/account/messages/logged_out.txt:2
 msgid "You have signed out."
@@ -502,7 +502,7 @@ msgstr "Usuń"
 #: templates/silverstrike/reconcile.html:13
 #: templates/silverstrike/recurring_transactions.html:12
 msgid "Home"
-msgstr ""
+msgstr "Strona Główna"
 
 #: templates/silverstrike/account_detail.html:11
 #: templates/silverstrike/account_form.html:6
@@ -513,21 +513,21 @@ msgstr ""
 #: templates/silverstrike/index.html:71
 #: templates/silverstrike/reconcile.html:14
 msgid "Accounts"
-msgstr ""
+msgstr "Konta"
 
 #: templates/silverstrike/account_detail.html:20
 #: templates/silverstrike/budget_index.html:18
 #: templates/silverstrike/category_detail.html:20
 #: templates/silverstrike/category_index.html:17
 msgid "Previous"
-msgstr ""
+msgstr "Wstecz"
 
 #: templates/silverstrike/account_detail.html:22
 #: templates/silverstrike/budget_index.html:20
 #: templates/silverstrike/category_detail.html:22
 #: templates/silverstrike/category_index.html:19
 msgid "Next"
-msgstr ""
+msgstr "Dalej"
 
 #: templates/silverstrike/account_detail.html:36
 msgid "Current Balance"
@@ -900,15 +900,15 @@ msgstr ""
 
 #: templates/silverstrike/recurringtransaction_form.html:11
 msgid "New Recurring Transaction"
-msgstr ""
+msgstr "Nowa cykliczna transakcja"
 
 #: templates/silverstrike/transaction_detail.html:23
 msgid "Transaction Type"
-msgstr ""
+msgstr "Typ transakcji"
 
 #: templates/silverstrike/transaction_detail.html:28
 msgid "Total amount"
-msgstr ""
+msgstr "Suma całkowita"
 
 #: templates/silverstrike/transaction_detail.html:43
 msgid "Edit as Split transaction"
@@ -916,7 +916,7 @@ msgstr ""
 
 #: templates/silverstrike/transaction_detail.html:50
 msgid "Splits"
-msgstr ""
+msgstr "Podziały"
 
 #: templates/socialaccount/authentication_error.html:5
 #: templates/socialaccount/authentication_error.html:8
@@ -964,15 +964,15 @@ msgstr ""
 
 #: templates/socialaccount/messages/account_disconnected.txt:2
 msgid "The social account has been disconnected."
-msgstr ""
+msgstr "Konto społecznościowe zostało odłączone."
 
 #: templates/socialaccount/signup.html:8 templates/socialaccount/signup.html:19
 msgid "Sign Up"
-msgstr ""
+msgstr "Zarejstruj Się"
 
 #: templates/socialaccount/signup.html:10
 #, python-format
 msgid "You are about to use your %(provider_name)s account to login to\n"
 "%(site_name)s. As a final step, please complete the following form:"
-msgstr ""
+msgstr "Masz zamiar użyć konta %(provider_name)s aby zalogować się do %(site_name)s. W ostatnim kroku proszę wypełnić poniższy formularz:"
 
