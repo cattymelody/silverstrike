@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-21 19:10-0500\n"
+"PO-Revision-Date: 2017-12-21 19:20-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -283,23 +283,24 @@ msgstr "lub"
 #, python-format
 msgid "If you have not created an account yet, then please\n"
 "<a href=\"%(signup_url)s\">sign up</a> first."
-msgstr ""
+msgstr "Jeżeli jeszcze nie utworzyłeś konta, to proszę najpierw\n"
+"<a href=\"%(signup_url)s\">zarejstruj się</a>."
 
 #: templates/account/login.html:65
 msgid "Sign In"
-msgstr ""
+msgstr "Zaloguj się"
 
 #: templates/account/login.html:71
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Nie pamiętasz hasła?"
 
 #: templates/account/logout.html:15
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "Czy na pewno chcesz się wylogować?"
 
 #: templates/account/logout.html:22
 msgid "Sign Out"
-msgstr ""
+msgstr "Wyloguj Się"
 
 #: templates/account/messages/cannot_delete_primary_email.txt:2
 #, python-format
@@ -476,7 +477,7 @@ msgstr ""
 #: templates/silverstrike/recurringtransaction_confirm_delete.html:18
 #: templates/silverstrike/transaction_confirm_delete.html:24
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: templates/silverstrike/account_confirm_delete.html:23
 #: templates/silverstrike/account_detail.html:51
@@ -487,7 +488,7 @@ msgstr ""
 #: templates/silverstrike/transaction_confirm_delete.html:25
 #: templates/silverstrike/transaction_detail.html:45
 msgid "Delete"
-msgstr ""
+msgstr "Usuń"
 
 #: templates/silverstrike/account_detail.html:10
 #: templates/silverstrike/account_form.html:14
