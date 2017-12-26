@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-21 18:20-0500\n"
+"PO-Revision-Date: 2017-12-25 21:10-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: admin.py:36
 msgid "You need to select more than one account to merge them."
-msgstr ""
+msgstr "Debe seleccionar más de una cuenta para fusionarlas."
 
 #: admin.py:43
 msgid "You can only merge foreign accounts, {} isn't."
@@ -395,12 +395,12 @@ msgstr "cambiar contraseña"
 #: templates/account/password_reset_from_key.html:20
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password is now changed."
-msgstr ""
+msgstr "Su contraseña ha sido cambiada."
 
 #: templates/account/password_set.html:5 templates/account/password_set.html:8
 #: templates/account/password_set.html:13
 msgid "Set Password"
-msgstr ""
+msgstr "Configurar contraseña"
 
 #: templates/account/signup.html:6 templates/socialaccount/signup.html:5
 msgid "Signup"
