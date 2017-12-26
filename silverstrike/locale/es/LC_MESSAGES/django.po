@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-25 21:30-0500\n"
+"PO-Revision-Date: 2017-12-25 21:40-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -823,50 +823,50 @@ msgstr "Fin de mes esperado"
 
 #: templates/silverstrike/index.html:48
 msgid "You have recurrences that are overdue!"
-msgstr ""
+msgstr "¡Tiene recurrencias caducadas!"
 
 #: templates/silverstrike/index.html:53
 msgid "Previous Month"
-msgstr ""
+msgstr "Mes anterior"
 
 #: templates/silverstrike/index.html:101
 msgid "Upcoming Transactions"
-msgstr ""
+msgstr "Próximas transacciones"
 
 #: templates/silverstrike/index.html:125
 msgid "Upcoming Recurrences"
-msgstr ""
+msgstr "Próximas recurrencias"
 
 #: templates/silverstrike/index.html:149
 msgid "No upcoming recurrences"
-msgstr ""
+msgstr "No hay recurrencias próximas"
 
 #: templates/silverstrike/index.html:158
 msgid "Recent Transactions"
-msgstr ""
+msgstr "Transacciones Recientes"
 
 #: templates/silverstrike/index.html:164
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: templates/silverstrike/index.html:168
 msgid "Opposing Account"
-msgstr ""
+msgstr "Cuenta opuesta"
 
 #: templates/silverstrike/newform.html:31
 #: templates/silverstrike/recurringtransaction_form.html:25
 #: templates/silverstrike/transaction_detail.html:19
 #: templates/silverstrike/transaction_edit.html:31
 msgid "Transaction Details"
-msgstr ""
+msgstr "Detalles de la transacción"
 
 #: templates/silverstrike/newform.html:92
 msgid "Add Split"
-msgstr ""
+msgstr "Añadir desglose"
 
 #: templates/silverstrike/reconcile.html:23
 msgid "Create reconcile transaction"
-msgstr ""
+msgstr "Crear transacción consiliada"
 
 #: templates/silverstrike/recurring_transactions.html:9
 msgid "Recurring Transactions"
