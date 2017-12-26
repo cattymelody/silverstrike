@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-25 22:10-0500\n"
+"PO-Revision-Date: 2017-12-25 22:21-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -915,38 +915,38 @@ msgstr "Editar como transacciones separadas"
 
 #: templates/silverstrike/transaction_detail.html:50
 msgid "Splits"
-msgstr ""
+msgstr "Dividir"
 
 #: templates/socialaccount/authentication_error.html:5
 #: templates/socialaccount/authentication_error.html:8
 msgid "Social Network Login Failure"
-msgstr ""
+msgstr "Inicio de seción en red social fallida"
 
 #: templates/socialaccount/authentication_error.html:10
 msgid "An error occurred while attempting to login via your social network account."
-msgstr ""
+msgstr "Un error ocurrió mientras intentaba iniciar sesión por medio de su cuenta de red social."
 
 #: templates/socialaccount/connections.html:5
 #: templates/socialaccount/connections.html:8
 msgid "Account Connections"
-msgstr ""
+msgstr "Conexión de cuenta"
 
 #: templates/socialaccount/connections.html:11
 msgid "You can sign in to your account using any of the following third party accounts:"
-msgstr ""
+msgstr "Puede iniciar sesión en su cuenta usando cualquiera de los siguientes cuentas de terceros:"
 
 #: templates/socialaccount/connections.html:43
 msgid "You currently have no social network accounts connected to this account."
-msgstr ""
+msgstr "Actualmente no tiene cuentas en redes sociales asociadas a esta cuenta."
 
 #: templates/socialaccount/connections.html:46
 msgid "Add a 3rd Party Account"
-msgstr ""
+msgstr "Añadir una cuenta de terceros"
 
 #: templates/socialaccount/login_cancelled.html:5
 #: templates/socialaccount/login_cancelled.html:9
 msgid "Login Cancelled"
-msgstr ""
+msgstr "Inicio de sesión cancelado"
 
 #: templates/socialaccount/login_cancelled.html:13
 #, python-format
