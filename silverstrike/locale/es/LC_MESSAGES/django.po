@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-09 20:05+0100\n"
-"PO-Revision-Date: 2017-12-25 21:10-0500\n"
+"PO-Revision-Date: 2017-12-25 21:20-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -404,51 +404,51 @@ msgstr "Configurar contraseña"
 
 #: templates/account/signup.html:6 templates/socialaccount/signup.html:5
 msgid "Signup"
-msgstr ""
+msgstr "Ingresar"
 
 #: templates/account/signup.html:16
 #, python-format
 msgid "Already have an account? Then please <a href=\"%(login_url)s\">sign in</a>."
-msgstr ""
+msgstr "¿Ya tiene una cuenta? entonces <a href=\"%(login_url)s\">ingrese</a> por favor."
 
 #: templates/account/signup.html:31
 msgid "Sign up"
-msgstr ""
+msgstr "Regitrarse"
 
 #: templates/account/signup_closed.html:5
 #: templates/account/signup_closed.html:14
 msgid "Sign Up Closed"
-msgstr ""
+msgstr "Registro cerrado"
 
 #: templates/account/signup_closed.html:16
 msgid "We are sorry, but the sign up is currently closed."
-msgstr ""
+msgstr "Lo sentimos, pero el registro se encuentra cerrado por los momentos."
 
 #: templates/account/snippets/already_logged_in.html:5
 msgid "Note"
-msgstr ""
+msgstr "Observaciones"
 
 #: templates/account/snippets/already_logged_in.html:5
 #, python-format
 msgid "you are already logged in as %(user_display)s."
-msgstr ""
+msgstr "usted ya ha ingresado como %(user_display)s."
 
 #: templates/account/verification_sent.html:5
 #: templates/account/verification_sent.html:8
 #: templates/account/verified_email_required.html:5
 #: templates/account/verified_email_required.html:8
 msgid "Verify Your E-mail Address"
-msgstr ""
+msgstr "Verifique su dirección de correo electrónico"
 
 #: templates/account/verification_sent.html:10
 msgid "We have sent an e-mail to you for verification. Follow the link provided to finalize the signup process. Please contact us if you do not receive it within a few minutes."
-msgstr ""
+msgstr "Le hemos enviado un correo electrónico de verificación. Vaya al link en él para finalizar el proceso de registro. Por favor contáctenos si no lo recibe en los próximos minutos."
 
 #: templates/account/verified_email_required.html:12
 msgid "This part of the site requires us to verify that\n"
 "you are who you claim to be. For this purpose, we require that you\n"
 "verify ownership of your e-mail address. "
-msgstr ""
+msgstr "Esta zona de la página requiere que verifiquemos que usted es quien dice ser. Con este propósito, requerimos que verifique la propiedad de la dirección de correo electrónico. "
 
 #: templates/account/verified_email_required.html:16
 msgid "We have sent an e-mail to you for\n"
