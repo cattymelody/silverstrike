@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-08 23:00+0100\n"
-"PO-Revision-Date: 2018-01-10 13:31-0500\n"
+"PO-Revision-Date: 2018-01-11 03:21-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -647,11 +647,11 @@ msgstr "Menyimpan"
 
 #: templates/silverstrike/category_confirm_delete.html:15
 msgid "Are you sure you want to delete the category?"
-msgstr ""
+msgstr "Apakah anda yakin anda ingin menghapus kategori?"
 
 #: templates/silverstrike/category_confirm_delete.html:16
 msgid "All transactions linked to this category won't be deleted but will loose the entry for the category"
-msgstr ""
+msgstr "Semua transaksi yang terkait dengan kategori ini tidak akan dihapus namun akan kehilangan entri untuk kategori"
 
 #: templates/silverstrike/category_detail.html:30
 msgid "Overview"
