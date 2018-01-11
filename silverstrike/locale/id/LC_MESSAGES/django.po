@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-08 23:00+0100\n"
-"PO-Revision-Date: 2018-01-11 03:21-0500\n"
+"PO-Revision-Date: 2018-01-11 03:32-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -713,7 +713,7 @@ msgstr "Pengeluaran menurut kategori"
 #: templates/silverstrike/inactive_categories.html:10
 #: templates/silverstrike/inactive_categories.html:17
 msgid "Inactive Categories"
-msgstr ""
+msgstr "Kategori Tidak Aktif"
 
 #: templates/silverstrike/index.html:8
 msgid "All imporant stuff"
@@ -788,35 +788,35 @@ msgstr "Tambahkan Split"
 
 #: templates/silverstrike/profile.html:8
 msgid "Your account details"
-msgstr ""
+msgstr "Rincian akun anda"
 
 #: templates/silverstrike/profile.html:22
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: templates/silverstrike/profile.html:24
 msgid "API auth key"
-msgstr ""
+msgstr "API auth key"
 
 #: templates/silverstrike/profile.html:26
 msgid "Email Addresses"
-msgstr ""
+msgstr "Alamat Email"
 
 #: templates/silverstrike/profile.html:27
 msgid "Manage Email Addresses"
-msgstr ""
+msgstr "Mengelola Alamat Email"
 
 #: templates/silverstrike/profile.html:28
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: templates/silverstrike/profile.html:30
 msgid "Social logins"
-msgstr ""
+msgstr "Sosial login"
 
 #: templates/silverstrike/profile.html:31
 msgid "Manage social logins"
-msgstr ""
+msgstr "Mengelola social login"
 
 #: templates/silverstrike/reconcile.html:23
 msgid "Create reconcile transaction"
@@ -849,7 +849,7 @@ msgstr "Tujuan"
 
 #: templates/silverstrike/recurringtransaction_detail.html:38
 msgid "Average amount"
-msgstr ""
+msgstr "Rata-rata jumlah"
 
 #: templates/silverstrike/recurringtransaction_detail.html:60
 msgid "Recent ocurrences"
