@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-08 23:00+0100\n"
-"PO-Revision-Date: 2018-01-11 03:32-0500\n"
+"PO-Revision-Date: 2018-01-13 08:30-0500\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -610,7 +610,7 @@ msgstr "Ekspor"
 #: templates/silverstrike/base.html:165
 #, python-format
 msgid "<b>Version</b> %(version)s"
-msgstr ""
+msgstr "<b>Version</b> %(version)s"
 
 #: templates/silverstrike/budget_index.html:18
 #: templates/silverstrike/category_detail.html:20
