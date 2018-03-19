@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-08 23:00+0100\n"
-"PO-Revision-Date: 2018-01-10 13:31-0500\n"
+"PO-Revision-Date: 2018-03-19 08:01-0400\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: admin.py:36
 msgid "You need to select more than one account to merge them."
-msgstr ""
+msgstr "Per combinare bisonga selezionare piu di una contabile."
 
 #: admin.py:43
 msgid "You can only merge foreign accounts, {} isn't."
