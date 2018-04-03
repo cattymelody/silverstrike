@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: silverstrike\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-08 23:00+0100\n"
-"PO-Revision-Date: 2018-01-10 13:32-0500\n"
+"PO-Revision-Date: 2018-04-03 15:01-0400\n"
 "Last-Translator: simhnna <simhnna@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -709,8 +709,8 @@ msgid "Inactive Categories"
 msgstr ""
 
 #: templates/silverstrike/index.html:8
-msgid "All imporant stuff"
-msgstr "Tüm önemli şeyler"
+msgid "All important stuff"
+msgstr ""
 
 #: templates/silverstrike/index.html:19
 msgid "Quick Overview"
